@@ -1,9 +1,6 @@
 # DVA231 Project Group 3
 ## Project Web-Development
 
-### Link to the Overleaf documentation
-https://www.overleaf.com/1797835368hrpqhpqzpfhs
-
 #### Project Idea: Cocktail DB
  - Website for Queries like “Which Cocktail can I make with these ingredients?”
   
@@ -32,13 +29,13 @@ https://www.overleaf.com/1797835368hrpqhpqzpfhs
   - Moderators Login System: Francesco
 
 
-- Frontend: [Nancy](https://github.com/Nanny26), [Ernest](github.com/erno98)
+- Frontend: [Ernest](github.com/erno98)
 
   - Display-Page: Ernest
 
   - Login-Page: Ernest
 
-  - Profile-Page: Nancy
+  - Profile-Page: Ernest
   
   - Cocktail-Page (with Picture, Ingredients, Description, Recipe, average of votes and Comments): Ernest
 
